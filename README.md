@@ -22,10 +22,3 @@ Este repositório contém a página de "Link na Bio" da Dra. Luana Lira, advogad
 *   **Localização do Escritório:** Link para visualizar o endereço no Google Maps.
 *   **Otimização para Buscadores (SEO):** Metatags detalhadas e Schema.org para melhor indexação e exibição nos resultados de busca.
 *   **Responsividade:** Design adaptável para diferentes tamanhos de tela.
-
-## Sugestões para Documentação Futura
-
-*   **Detalhes da pasta `assets`:** Poderíamos adicionar uma subseção descrevendo o propósito de cada imagem ou ícone dentro da pasta `assets/images/`.
-*   **Melhoria de Estilo:** Mencionar a possibilidade de refatorar o CSS in-line para um arquivo `.css` externo para melhor manutenção e organização do código.
-*   **Implantação:** Adicionar informações sobre como a página está sendo hospedada e implantada (ex: GitHub Pages, Vercel, etc.).
-*   **Créditos:** Incluir uma seção de créditos para a `Hyperpage`, conforme mencionado no rodapé da página.
