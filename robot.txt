@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luanaliraadv.com/sitemap.xml
